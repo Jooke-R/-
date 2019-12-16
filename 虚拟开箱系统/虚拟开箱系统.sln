@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "虚拟开箱系统", "虚拟开箱系统\虚拟开箱系统.csproj", "{2734CC78-ED99-401F-8779-8A7A43125D85}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2734CC78-ED99-401F-8779-8A7A43125D85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2734CC78-ED99-401F-8779-8A7A43125D85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2734CC78-ED99-401F-8779-8A7A43125D85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2734CC78-ED99-401F-8779-8A7A43125D85}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7C30D5C2-7287-469A-B979-029CDBE6712A}
+	EndGlobalSection
+EndGlobal
